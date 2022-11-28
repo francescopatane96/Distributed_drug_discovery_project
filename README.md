@@ -1,7 +1,7 @@
 # Distributed_drug_discovery_project
 The scope of the project is the creation of a public and easy to access repository containing a vast coort of drug discovery models.  
 
-Following principles like the distributed computing and the wisdom of crowds, the hope of this rep is make science and bioinformatics, in particular drug discovery field, more democratic and accessible to all. The repository allows you to create your own and personal data science/bioinformatics/computational drug discovery portfolio and to scan a little part of the so called 'chemical space', in order to discovery new candidate bioactive drugs. 
+Following principles like the distributed computing and the wisdom of crowds, the hope of this rep is make science and bioinformatics, in particular drug discovery field, more democratic and accessible to all. The repository allows you to create your own and personal data science/bioinformatics/computational drug discovery portfolio and to scan a little part of the so called 'chemical space', in order to discover new candidate drugs. 
 
 0. fork the project,
 1. choose the target protein of interest and name correctly the notebook sheet (e.g.: target_name.ipnyb),
