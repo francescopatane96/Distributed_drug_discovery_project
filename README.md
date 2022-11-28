@@ -8,3 +8,7 @@ Following principles like the distributed computing and the wisdom of crowds, th
 2. make the pipeline reproducible for all the utents (e.g.: seed=42),
 3. save models and plots in the rep. models must be named as type_of_model_R1score.h5
 
+ML_1 : set uniprot_id of interest (target protein). retrieve data of every annotated and tested compound on the target from ChEMBL database and calculate lipinki's and fingerprint descriptors with PADEL. 
+
+
+
